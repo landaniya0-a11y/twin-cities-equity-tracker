@@ -96,3 +96,8 @@ st.markdown("""
 * **Environmental Disparity Statistics:** Baseline air pollution and tract exposure metrics sourced from the *Environmental Justice Framework*, Minnesota Pollution Control Agency (MPCA). [View MPCA EJ Report](https://pca.state.mn.us)
 * **Infrastructure Context:** Regional utility capacities and data center development footprints tracked via public municipal filings and the *Minnesota Center for Environmental Advocacy (MCEA)*. [View MCEA Reports](https://mncenter.org)
 """)
+st.markdown("""
+* **Historical Covenant Data:** Sourced from the *Mapping Prejudice Project*, University of Minnesota Libraries. [View Live Interactive Covenants Map](https://mappingprejudice.umn.edu/racial-covenants/maps-data)
+* **Environmental Disparity Statistics:** Baseline air pollution and tract exposure metrics sourced from the *Environmental Justice Framework*, Minnesota Pollution Control Agency (MPCA). [View MPCA EJ Framework](https://pca.state.mn.us)
+* **Infrastructure Context:** Regional utility capacities and data center development footprints tracked via public municipal filings and the *Minnesota Center for Environmental Advocacy (MCEA)*. [View MCEA Reports](https://mncenter.org)
+""")
