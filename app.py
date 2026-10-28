@@ -84,6 +84,7 @@ elif neighborhood == "Dayton / Champlin Industrial Zone":
     * **Data Center Suitability:** High-priority development zone due to close proximity to high-voltage power transmission lines and affordable open land footprints.
     """)
 
+# Main footer section - perfectly aligned outside of the neighborhood logic streams
 st.write("---")
 st.subheader("📋 Academic Disclosure & Data Citations")
 st.caption("""
@@ -92,12 +93,7 @@ The regional analysis and socioeconomic logic frameworks are derived from the fo
 """)
 
 st.markdown("""
-* **Historical Covenant Data:** Sourced from the *Mapping Prejudice Project*, University of Minnesota Libraries. [View Mapping Prejudice Data](https://umn.edu)
-* **Environmental Disparity Statistics:** Baseline air pollution and tract exposure metrics sourced from the *Environmental Justice Framework*, Minnesota Pollution Control Agency (MPCA). [View MPCA EJ Report](https://pca.state.mn.us)
-* **Infrastructure Context:** Regional utility capacities and data center development footprints tracked via public municipal filings and the *Minnesota Center for Environmental Advocacy (MCEA)*. [View MCEA Reports](https://mncenter.org)
-""")
-st.markdown("""
-* **Historical Covenant Data:** Sourced from the *Mapping Prejudice Project*, University of Minnesota Libraries. [View Live Interactive Covenants Map](https://mappingprejudice.umn.edu/racial-covenants/maps-data)
+* **Historical Covenant Data:** Sourced from the *Mapping Prejudice Project*, University of Minnesota Libraries. [View Live Interactive Covenants Map](https://umn.edu)
 * **Environmental Disparity Statistics:** Baseline air pollution and tract exposure metrics sourced from the *Environmental Justice Framework*, Minnesota Pollution Control Agency (MPCA). [View MPCA EJ Framework](https://pca.state.mn.us)
 * **Infrastructure Context:** Regional utility capacities and data center development footprints tracked via public municipal filings and the *Minnesota Center for Environmental Advocacy (MCEA)*. [View MCEA Reports](https://mncenter.org)
 """)
