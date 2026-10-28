@@ -94,6 +94,7 @@ The regional analysis and socioeconomic logic frameworks are derived from the fo
 
 st.markdown("""
 * **Historical Covenant Data:** Sourced from the *Mapping Prejudice Project*, University of Minnesota Libraries. [View Live Interactive Covenants Map](https://umn.edu)
-* **Environmental Disparity Statistics:** Baseline air pollution and tract exposure metrics sourced from the *Environmental Justice Framework*, Minnesota Pollution Control Agency (MPCA). [View MPCA EJ Framework](https://pca.state.mn.us)
-* **Infrastructure Context:** Regional utility capacities and data center development footprints tracked via public municipal filings and the *Minnesota Center for Environmental Advocacy (MCEA)*. [View MCEA Reports](https://mncenter.org)
+* **Environmental Disparity Statistics:** Baseline air pollution and tract exposure metrics sourced from the *Environmental Justice Framework*, Minnesota Pollution Control Agency (MPCA). [View MPCA EJ Framework](https://www.pca.state.mn.us/about-mpca/environmental-justice)
+* **Infrastructure Context:** Regional utility capacities and data center development footprints tracked via public municipal filings and the *Minnesota Center for Environmental Advocacy (MCEA)*. [View MCEA Reports](https://www.mncenter.org/)
 """)
+
